@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700');
+
+*{ 
+    background-color: #ffffff;
+}
+
+
+.main {
+    text-align: center;
+    padding-top: 20vh;
+
+}
+
+h1 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 100px;
+    font-weight: 700;
+
+}
